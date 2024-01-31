@@ -1,0 +1,10 @@
+C:\Users\Master\source\repos\PoC\PoC\bin\Debug\PoC.exe.config
+C:\Users\Master\source\repos\PoC\PoC\bin\Debug\PoC.exe
+C:\Users\Master\source\repos\PoC\PoC\bin\Debug\PoC.pdb
+C:\Users\Master\source\repos\PoC\PoC\obj\Debug\PoC.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\PoC\PoC\obj\Debug\PoC.Form1.resources
+C:\Users\Master\source\repos\PoC\PoC\obj\Debug\PoC.Properties.Resources.resources
+C:\Users\Master\source\repos\PoC\PoC\obj\Debug\PoC.csproj.GenerateResource.cache
+C:\Users\Master\source\repos\PoC\PoC\obj\Debug\PoC.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\PoC\PoC\obj\Debug\PoC.exe
+C:\Users\Master\source\repos\PoC\PoC\obj\Debug\PoC.pdb
