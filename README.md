@@ -15,3 +15,4 @@ PoC PS4/PS5
 > This is **supposedly** what theflow0 reported on HackerOne.
 
 
+https://gist.github.com/RobbedColek/8b0bc9655adc6ad9564ad71453188e37
